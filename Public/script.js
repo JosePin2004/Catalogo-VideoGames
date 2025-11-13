@@ -29,6 +29,13 @@ const videogames = [
         rating: 4.0,
         imagen: "https://www.actualidadgadget.com/wp-content/uploads/2025/11/Los-Simpson-llegaron-a-Fortnite.webp",
     },
+     {
+        id: 5,
+        nombre: "Call of Duty: Warzone",
+        descripcion: "Battle Royale · Multijugador · PC / Consolas / Móvil",
+        rating: 4.0,
+        imagen: "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:376/h:211/q:75/https://bleedingcool.com/wp-content/uploads/2025/10/call-of-duty-warzone-2025-art.jpg",
+    },
 ];
 
 const grid = document.querySelector('#grid-videogames');
